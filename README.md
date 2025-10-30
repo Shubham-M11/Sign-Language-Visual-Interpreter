@@ -16,7 +16,7 @@ A real-time Sign Language to Text & Speech conversion system built using **Pytho
 
 ## Run Locally
 ```bash
-git clone https://github.com/<your-username>/Sign-Language-Visual-Interpreter.git
+git clone https://github.com/Shubham-M11/Sign-Language-Visual-Interpreter.git
 cd Sign-Language-Visual-Interpreter
 pip install -r requirements.txt
 python run_prediction.py
